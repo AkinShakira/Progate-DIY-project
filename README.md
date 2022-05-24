@@ -1,1 +1,1 @@
-# Progate-DIY-project
+# Progate-DIY-project view on Desktop only. 
